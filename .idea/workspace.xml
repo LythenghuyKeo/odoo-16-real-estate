@@ -28,7 +28,6 @@
       <change afterPath="$PROJECT_DIR$/odoo/real_estate_project/estate_property/views/estate_property_type_view.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/real_estate_project/estate_property/views/estate_property_view.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/real_estate_project/estate_property/views/res_users_views.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/odoo" beforeDir="false" afterPath="$PROJECT_DIR$/odoo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/odoo/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/odoo/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
