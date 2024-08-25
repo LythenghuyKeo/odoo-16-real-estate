@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad5dc5d8-f4f9-417b-9487-fd57178911dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/real_estate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/real_estate_project/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/real_estate_project/estate_account/__init__.py" afterDir="false" />
@@ -34,6 +28,10 @@
       <change afterPath="$PROJECT_DIR$/odoo/real_estate_project/estate_property/views/estate_property_type_view.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/real_estate_project/estate_property/views/estate_property_view.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/real_estate_project/estate_property/views/res_users_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo" beforeDir="false" afterPath="$PROJECT_DIR$/odoo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
